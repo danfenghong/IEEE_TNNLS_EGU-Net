@@ -4,9 +4,9 @@
 
 ___________
 
-The code in this toolbox implements the ["Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing"](https://ieeexplore.ieee.org/document/9174822). More specifically, it is detailed as follow.
+The code in this toolbox implements the ["Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing"](https://ieeexplore.ieee.org/document/9174822). More specifically, it is detailed as follows.
 
-![alt text](./Motivation.png)
+![alt text](./networks.png)
 
 
 Citation
@@ -33,15 +33,17 @@ How to use it?
 ---------------------
 This toolbox consists of two self-supervised unmixing network architectures, i.e., pixel-wise EGU-Net using fully-connected networks (EGU-Net-pw), spatial-spectral EGU-Net using convolutional neural networks (EGU-Net-ss). For more details, please refer to the paper.
 
-The used data (named TNNLS_Data) for the network input, including the orginal hyperspectral image, the extracted endmembers (spectral bundles) and the corresponding pseudo abundances, can be downloaded from 
+The used data (named TNNLS_Data) for the network input, including the original hyperspectral image, the extracted endmembers (spectral bundles), and the corresponding pseudo abundances, can be downloaded from 
 
-Google drive: https://drive.google.com/file/d/1n6PfPIYlq5nfCWbfy274oAgKrZ47ytTo/view?usp=sharing
+Google Drive: https://drive.google.com/file/d/1n6PfPIYlq5nfCWbfy274oAgKrZ47ytTo/view?usp=sharing
 
 Baiduyun: https://pan.baidu.com/s/1qlwPWS1je-o-za60jR6ohQ (access code: wkm9).
 
+PS: the endmembers (spectral bundles) can be extracted from the original hyperspectral image using the provided Pseudo_endmembers_generation.m function.
 
+More specifically, for using the proposed network, you first need to download the data from the given link and copy them to "TNNLS_Data". If you wanna run the codes in your own data, you need to first extract the endmembers using the provided Pseudo_endmembers_generation.m function and meanwhile generate the corresponding abundances. Then, you can further copy them and use them in your proposed networks.
 
-If you encounter the bugs while using this code, please do not hesitate to contact us.
+If you encounter bugs while using this code, please do not hesitate to contact us.
 
 Licensing
 ---------
@@ -58,6 +60,7 @@ Contact Information:
 --------------------
 
 Danfeng Hong: hongdanfeng1989@gmail.com<br>
-Danfeng Hong is with the Univ. Grenoble Alpes, CNRS, Grenoble INP, GIPSA-lab, 38000 Grenoble, France.
+Danfeng Hong is with the Univ. Grenoble Alpes, CNRS, Grenoble INP, GIPSA-lab, 38000 Grenoble, France.<br>
+                with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), 82234 Wessling, Germany
 
-If emergency, you can also add my QQ: 345088114.
+If an emergency, you can also add my QQ: 345088114.
