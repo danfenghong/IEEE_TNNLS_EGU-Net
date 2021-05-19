@@ -265,11 +265,11 @@ def train_mynetwork(x_pure_set, x_mixed_set, x_mixed_set1, y_train, y_test, lear
         return parameters , val_acc, abund
 
 
-Pure_TrSet = scio.loadmat('EGU_Net_ss/Pure_TrSet.mat')
-Mixed_TrSet = scio.loadmat('EGU_Net_ss/Mixed_TrSet.mat')
+Pure_TrSet = scio.loadmat('Data/Pure_TrSet.mat')
+Mixed_TrSet = scio.loadmat('Data/Mixed_TrSet.mat')
 
-TrLabel = scio.loadmat('EGU_Net_ss/TrLabel.mat')
-TeLabel = scio.loadmat('EGU_Net_ss/TeLabel.mat')
+TrLabel = scio.loadmat('Data/TrLabel.mat')
+TeLabel = scio.loadmat('Data/TeLabel.mat')
 
 Pure_TrSet = Pure_TrSet['Pure_TrSet']
 Mixed_TrSet = Mixed_TrSet['Mixed_TrSet']
