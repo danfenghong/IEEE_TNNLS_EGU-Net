@@ -33,9 +33,9 @@ How to use it?
 ---------------------
 This toolbox consists of two different network architectures, i.e., fully-connected networks (FC-Nets), convolutional neural networks (CNNs). Each of network architectures also includes different fusion networks. For more details, please refer to the paper.
 
-Google drive: https://drive.google.com/file/d/1vno8vQxCXgr7xk-Nez9CVbJmjkDMBCbe/view?usp=sharing
+Google drive: https://drive.google.com/file/d/1n6PfPIYlq5nfCWbfy274oAgKrZ47ytTo/view?usp=sharing
 
-Baiduyun: https://pan.baidu.com/s/1ug_tKyrbwg_CzHGpB2YK2A (access code: hfw3)
+Baiduyun: https://pan.baidu.com/s/1qlwPWS1je-o-za60jR6ohQ (access code: wkm9)
 
 
 **If you are interested in LCZ classification datasets, please download them from here: [Baiduyun](https://pan.baidu.com/s/1dYkaUm4JTjOWdtx79RsB6w) with access code (gkli)!**
