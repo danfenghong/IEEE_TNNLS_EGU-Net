@@ -41,7 +41,7 @@ Baiduyun: https://pan.baidu.com/s/1qlwPWS1je-o-za60jR6ohQ (access code: wkm9).
 
 PS: the endmembers (spectral bundles) can be extracted from the original hyperspectral image using the provided Pseudo_endmembers_generation.m function.
 
-More specifically, for using the proposed network, you first need to download the data from the given link and copy them to "TNNLS_Data". If you wanna run the codes in your own data, you need to first extract the endmembers using the provided Pseudo_endmembers_generation.m function and meanwhile generate the corresponding abundances. Then, you can further copy them and use them in your proposed networks.
+More specifically, for using the proposed network, you first need to download the data from the given link and copy them to "TNNLS_Data". If you wanna run the codes in your own data, you need to first extract the endmembers using the provided Pseudo_endmembers_generation.m function and meanwhile generate the corresponding abundances. Then, you can further copy and use them in your proposed networks.
 
 If you encounter bugs while using this code, please do not hesitate to contact us.
 
