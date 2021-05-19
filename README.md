@@ -14,14 +14,14 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Danfeng Hong, Lianru Gao, Jing Yao, Naoto Yokoya, Jocelyn Chanussot, Uta Heiden, Bing Zhang. Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing, IEEE Transactions on Neural Networks and Learning Systems, 2020, DOI: 10.1109/TGRS.2020.3016820. 
+Danfeng Hong, Lianru Gao, Jing Yao, Naoto Yokoya, Jocelyn Chanussot, Uta Heiden, Bing Zhang. Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing, IEEE Transactions on Neural Networks and Learning Systems, 2020, DOI: 10.1109/TNNLS.2021.3082289. 
 
      @article{hong2021endmember,
       title     = {Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing},
       author    = {D. Hong and L. Gao and J. Yao and N. Yokoya and J. Chanussot and U. Heiden and B. Zhang},
       journal   = {IEEE Trans. Neural Netw. Learn. Syst.}, 
       year      = {2021},
-      note      = {DOI:10.1109/TGRS.2020.3016820},
+      note      = {DOI: 10.1109/TNNLS.2021.3082289},
       publisher = {IEEE}
      }
 
