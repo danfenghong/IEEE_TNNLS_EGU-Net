@@ -4,7 +4,7 @@
 
 ___________
 
-The code in this toolbox implements the ["Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing"](https://ieeexplore.ieee.org/document/9174822). More specifically, it is detailed as follows.
+The code in this toolbox implements the ["Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing"](https://ieeexplore.ieee.org/abstract/document/9444141). More specifically, it is detailed as follows.
 
 ![alt text](./networks.png)
 
