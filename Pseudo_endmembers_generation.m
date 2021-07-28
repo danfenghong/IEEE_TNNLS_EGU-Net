@@ -19,3 +19,7 @@ for i = 1 : (m / k)
         EM = [EM, sub_EM];
     end
 end
+
+Abund = sunsal(EM, X', 'lambda', 0, 'ADDONE', 'no', 'POSITIVITY', 'yes', ...
+            'AL_iters', 200, 'TOL', 1e-4, 'verbose','yes');
+TrLabel=(Abund./repmat(sum(Abund), size(Abund, 1), 1));
