@@ -61,6 +61,4 @@ Contact Information:
 
 Danfeng Hong: hongdanfeng1989@gmail.com<br>
 Danfeng Hong is with the Univ. Grenoble Alpes, CNRS, Grenoble INP, GIPSA-lab, 38000 Grenoble, France.<br>
-                with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), 82234 Wessling, Germany
-
-If an emergency, you can also add my QQ: 345088114.
+                with the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), 82234 Wessling, Germany.
