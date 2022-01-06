@@ -20,6 +20,6 @@ for i = 1 : (m / k)
     end
 end
 
-Abund = sunsal(M, EM, 'lambda', 0, 'ADDONE', 'no', 'POSITIVITY', 'yes', ...
-            'AL_iters', 200, 'TOL', 1e-4, 'verbose','yes'); % The M denotes the endmembers, which can be extracted from the hyperspectral images or obtained from spectral library.
+Abund = sunsal(M, EM, 'lambda', 0, 'ADDONE', 'no', 'POSITIVITY', 'yes', 'AL_iters', 200, 'TOL', 1e-4, 'verbose','yes'); 
+% The M denotes the endmembers, which can be extracted from the hyperspectral images or obtained from spectral library.
 TrLabel=(Abund./repmat(sum(Abund), size(Abund, 1), 1));
