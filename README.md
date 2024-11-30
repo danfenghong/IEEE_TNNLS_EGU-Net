@@ -1,6 +1,6 @@
 # Endmember-Guided Unmixing Network (EGU-Net): A General Deep Learning Framework for Self-Supervised Hyperspectral Unmixing
 
-[Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Lianru Gao](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), [Jing Yao](https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=en), [Naoto Yokoya](https://naotoyokoya.com/), [Jocelyn Chanussot](http://jocelyn-chanussot.net/), [Uta Heiden](https://scholar.google.de/citations?user=xgKwyocAAAAJ&hl=de), [Bing Zhang](http://english.radi.cas.cn/Education/PhDS/201401/t20140109_115415.html)
+[Danfeng Hong](https://sites.google.com/view/danfeng-hong), Lianru Gao, Jing Yao,[Naoto Yokoya, Jocelyn Chanussot, Uta Heiden, Bing Zhang
 
 ___________
 
